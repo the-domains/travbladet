@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Travbladet]]></title>
+        <description><![CDATA[Travbladet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 11:45:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finns det utrymme för ytterligare en travsite?]]></title>
+            <description><![CDATA[<article><h1>Finns det utrymme för ytterligare en travsite?</h1><p>På travbladet samlar vi nätets oerhörda rikedom av trav- häst- och uppfödningsrelaterat innehåll. Eller snarare, vi samlar, du läser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ca8b35d3b2ab0da5bf8e29d242dad0d66a7c7fa.gif"></article>]]></description>
+            <link>undefinedfinns-det-utrymme-for-ytterligare-en-travsite/index.html</link>
+            <guid isPermaLink="false">6468c2ab-50ef-45a9-8be0-e34f46afeb4d</guid>
+            <pubDate>Wed, 17 Feb 2016 11:44:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
