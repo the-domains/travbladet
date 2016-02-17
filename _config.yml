@@ -1,6 +1,6 @@
 name: Travbladet
 favicon: null
-layout_spectrum: 0.41719824983738363
+layout_spectrum: 0.00417
 typography_spectrum: 0.55306
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.6336525077931583
   lightness: 0.8689006257336587
-  saturation: 0.5221361385192722
+  saturation: 0.625
   rhythmicContrast: 0.036850858479738235
 purpose: []
